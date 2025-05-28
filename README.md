@@ -1,6 +1,6 @@
 # Asteroids
 
-A simple game based on the classic ([Asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game))).
+A simple game based on the classic [Asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game)).
 
 ## Prerequisites
 - Python 3.10+ installed;
